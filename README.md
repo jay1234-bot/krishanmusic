@@ -1,15 +1,4 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
-
-<p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
-</p>
+<h1 align="center">🎵 MBV Music Bot 🎵</h1>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
 
@@ -19,7 +8,7 @@
 
 Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
 
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
+1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/MBV_NETWORK) to get the necessary script.
 2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
 3. **Fork the Repository**: Fork this repository to your GitHub account.
 4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
@@ -41,7 +30,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/FantasticSukhi/MBVMusic)
 
 ---
 
@@ -66,7 +55,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/FantasticSukhi/MBVMusic && cd MBVMusic
    ```
 6. **Install Requirements**
    ```bash
@@ -108,19 +97,19 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/MBV_NETWORK).
 
 ---
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to MBV Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://t.me/MBV_NETWORK">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://t.me/+kf5prJAMarhkOWJl">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -129,7 +118,7 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the MBV Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
