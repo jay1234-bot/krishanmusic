@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://t.me/OFFICIAL_MAMBA_SUPPORT",
+    "https://t.me/censored_politicsss",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -46,7 +46,7 @@ SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/TSERIESSUPPORTCHAT")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
 # make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://t.me/MAMBA_GENUINE_SERVICES_CHAT")
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://t.me/TEAMTSERIESBOTS")
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
@@ -87,10 +87,10 @@ PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://envs.sh/Ncy.jpg"
 )
 PLAYLIST_IMG_URL = "https://envs.sh/vv1.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/em2e3k.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/em2e3k.jpg"
+STATS_IMG_URL = "https://envs.sh/vv4.jpg"
+TELEGRAM_AUDIO_URL = "https://envs.sh/vvR.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/em2e3k.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/em2e3k.jpg"
+STREAM_IMG_URL = "https://envs.sh/vvC.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/em2e3k.jpg"
 YOUTUBE_IMG_URL = "https://files.catbox.moe/em2e3k.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/em2e3k.jpg"
